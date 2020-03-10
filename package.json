@@ -1,0 +1,15 @@
+{
+  "name": "Adark-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "A dark theme prefered by your eyes",
+  "keywords": [
+    "ui",
+    "theme"
+  ],
+  "repository": "https://github.com/agarwalamogh/Adark_Atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
